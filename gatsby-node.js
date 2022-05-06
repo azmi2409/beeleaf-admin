@@ -24,3 +24,4 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
     },
   })
 }
+//test
